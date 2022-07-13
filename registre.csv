@@ -1,0 +1,4 @@
+fiid,phone,iban,idType,idNumber,name1,lastName1,lastName2,email,status,province,town,type,door,floor,name,number,portal,stairs,zipCode,portabilityCode,version
+190,573502682703,20_866950604,1,101580181,Juan Manuel,Porras,Ruiz,pruebascotiabank20@valid.com,1,11,12,CMO,1,1,suba,null,12,15,23658,null,2
+190,573502682703,20_866950604,1,101580181,Juan Manuel,Porras,Ruiz,pruebascotiabank20@valid.com,1,11,12,CMO,1,1,suba,null,12,15,23658,null,2
+23,573502682701,20_860604,1,1080181,Leonidas,Centeno,Villalobos,pruebascotiabank21@valid.com,1,11,12,CMO,1,1,usme,null,12,15,23658,null,2
